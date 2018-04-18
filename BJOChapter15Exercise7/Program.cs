@@ -11,6 +11,7 @@ namespace BJOChapter15Exercise7
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// first commit
         [STAThread]
         static void Main()
         {
